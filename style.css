@@ -94,7 +94,7 @@ h4 {
 }
 
 h5 {  
-	font-size: 20px;  
+	font-size: 18px;  
 }
 
 h6 {  
@@ -460,7 +460,7 @@ button:focus {
 
 
 #mu-book-overview {
-	background-color: #fff;
+	background-color: #f8f8f8;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -583,7 +583,7 @@ button:focus {
 
 
 #mu-author {
-	background-color: #f8f8f8;
+	background-color: #fff;
 	display: inline;
 	float: left;
 	width: 100%;
